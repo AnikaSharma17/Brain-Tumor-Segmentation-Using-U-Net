@@ -13,6 +13,11 @@ This project focuses on automated brain tumor segmentation from MRI scans using 
 
 ---
 
+### Model Files (.h5)
+The trained model files are not included in this repository due to size constraints.
+
+---
+
 ## 🧪 Dataset
 
 - **Source**: Custom 2D slices prepared from BRATS-style MRI datasets.
